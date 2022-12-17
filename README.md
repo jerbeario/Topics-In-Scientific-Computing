@@ -6,5 +6,5 @@ If you find this repository and are taking the course, please do not
 blatantly copy as that will be in breach of the university code of 
 conduct.
 
-You are wellcome to use my codes for inspiration, but beware of 
+You are welcome to use my codes for inspiration, but beware of 
 plagiarism. 
